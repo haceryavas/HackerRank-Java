@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/**
+ * @author Hacer Nur Yavaş - 3 Haziran 2025
+ */
 public class JavaIfElse {
     public static void main(String[] args) {
 
